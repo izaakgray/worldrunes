@@ -597,8 +597,6 @@ export function solveWorldRunes(
             unitCount: teamUnits.length,
             regionCount: activeRegions.length,
             totalCost: teamUnits.reduce((sum, u) => sum + u.cost, 0),
-            regionCount: activeRegions.length,
-            totalCost: teamUnits.reduce((sum, u) => sum + u.cost, 0),
           });
           
           if (results.length <= 5) {
