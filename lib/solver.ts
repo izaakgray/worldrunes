@@ -635,7 +635,8 @@ export function solveWorldRunes(
           for (const regionId of allTestRegions) {
             const count = testRegionCounts.get(regionId) || 0;
             const region = getRegionById(regionId);
-            if (region && count >= region.requiredUnits) {
+            const req = region?.requiredUnits ?? 0;
+            if (region && count >= req) {
               testActive.push(regionId);
             }
           }
