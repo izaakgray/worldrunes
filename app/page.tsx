@@ -45,7 +45,7 @@ export default function Home() {
       console.error('Error stack:', error instanceof Error ? error.stack : 'No stack');
       return [];
     }
-  }, [emblem1, emblem2]);
+  }, [emblem1, emblem2, config]);
   
   // Debug: log when results change
   console.log('Current results count:', results.length);
@@ -56,7 +56,7 @@ export default function Home() {
         <header className={styles.header}>
           <h1 className={styles.title}>TFT World Runes Solver</h1>
           <p className={styles.subtitle}>
-            Find all valid team compositions for "The World Runes" augment
+            Find all valid team compositions for &ldquo;The World Runes&rdquo; augment
           </p>
           <p className={styles.description}>
             Select two region emblems to find all combinations of units that activate 4 unique regions.
