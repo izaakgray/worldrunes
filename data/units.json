@@ -1,0 +1,461 @@
+[
+  {
+    "id": "anivia",
+    "name": "Anivia",
+    "cost": 1,
+    "regions": ["freljord"]
+  },
+  {
+    "id": "blitzcrank",
+    "name": "Blitzcrank",
+    "cost": 1,
+    "regions": ["zaun"]
+  },
+  {
+    "id": "briar",
+    "name": "Briar",
+    "cost": 1,
+    "regions": ["noxus"]
+  },
+  {
+    "id": "caitlyn",
+    "name": "Caitlyn",
+    "cost": 1,
+    "regions": ["piltover"]
+  },
+  {
+    "id": "illaoi",
+    "name": "Illaoi",
+    "cost": 1,
+    "regions": ["bilgewater"]
+  },
+  {
+    "id": "jarvan-iv",
+    "name": "Jarvan IV",
+    "cost": 1,
+    "regions": ["demacia"]
+  },
+  {
+    "id": "jhin",
+    "name": "Jhin",
+    "cost": 1,
+    "regions": ["ionia"]
+  },
+  {
+    "id": "kogmaw",
+    "name": "Kog'Maw",
+    "cost": 1,
+    "regions": ["void"]
+  },
+  {
+    "id": "lulu",
+    "name": "Lulu",
+    "cost": 1,
+    "regions": ["yordle"]
+  },
+  {
+    "id": "qiyana",
+    "name": "Qiyana",
+    "cost": 1,
+    "regions": ["ixtal"]
+  },
+  {
+    "id": "rumble",
+    "name": "Rumble",
+    "cost": 1,
+    "regions": ["yordle"]
+  },
+  {
+    "id": "shen",
+    "name": "Shen",
+    "cost": 1,
+    "regions": ["ionia"]
+  },
+  {
+    "id": "sona",
+    "name": "Sona",
+    "cost": 1,
+    "regions": ["demacia"]
+  },
+  {
+    "id": "viego",
+    "name": "Viego",
+    "cost": 1,
+    "regions": ["shadow-isles"]
+  },
+  {
+    "id": "aphelios",
+    "name": "Aphelios",
+    "cost": 2,
+    "regions": ["targon"]
+  },
+  {
+    "id": "ashe",
+    "name": "Ashe",
+    "cost": 2,
+    "regions": ["freljord"]
+  },
+  {
+    "id": "chogath",
+    "name": "Cho'Gath",
+    "cost": 2,
+    "regions": ["void"]
+  },
+  {
+    "id": "ekko",
+    "name": "Ekko",
+    "cost": 2,
+    "regions": ["zaun"]
+  },
+  {
+    "id": "graves",
+    "name": "Graves",
+    "cost": 2,
+    "regions": ["bilgewater"],
+    "unlockable": true
+  },
+  {
+    "id": "neeko",
+    "name": "Neeko",
+    "cost": 2,
+    "regions": ["ixtal"]
+  },
+  {
+    "id": "orianna",
+    "name": "Orianna",
+    "cost": 2,
+    "regions": ["piltover"],
+    "unlockable": true
+  },
+  {
+    "id": "poppy",
+    "name": "Poppy",
+    "cost": 2,
+    "regions": ["demacia", "yordle"],
+    "unlockable": true
+  },
+  {
+    "id": "reksai",
+    "name": "Rek'Sai",
+    "cost": 2,
+    "regions": ["void"]
+  },
+  {
+    "id": "sion",
+    "name": "Sion",
+    "cost": 2,
+    "regions": ["noxus"]
+  },
+  {
+    "id": "teemo",
+    "name": "Teemo",
+    "cost": 2,
+    "regions": ["yordle"]
+  },
+  {
+    "id": "tristana",
+    "name": "Tristana",
+    "cost": 2,
+    "regions": ["yordle"]
+  },
+  {
+    "id": "tryndamere",
+    "name": "Tryndamere",
+    "cost": 2,
+    "regions": ["freljord"],
+    "unlockable": true
+  },
+  {
+    "id": "twisted-fate",
+    "name": "Twisted Fate",
+    "cost": 2,
+    "regions": ["bilgewater"]
+  },
+  {
+    "id": "vi",
+    "name": "Vi",
+    "cost": 2,
+    "regions": ["piltover", "zaun"]
+  },
+  {
+    "id": "xin-zhao",
+    "name": "Xin Zhao",
+    "cost": 2,
+    "regions": ["demacia", "ionia"]
+  },
+  {
+    "id": "yasuo",
+    "name": "Yasuo",
+    "cost": 2,
+    "regions": ["ionia"]
+  },
+  {
+    "id": "yorick",
+    "name": "Yorick",
+    "cost": 2,
+    "regions": ["shadow-isles"],
+    "unlockable": true
+  },
+  {
+    "id": "ahri",
+    "name": "Ahri",
+    "cost": 3,
+    "regions": ["ionia"]
+  },
+  {
+    "id": "darius",
+    "name": "Darius",
+    "cost": 3,
+    "regions": ["noxus"],
+    "unlockable": true
+  },
+  {
+    "id": "draven",
+    "name": "Draven",
+    "cost": 3,
+    "regions": ["noxus"]
+  },
+  {
+    "id": "dr-mundo",
+    "name": "Dr. Mundo",
+    "cost": 3,
+    "regions": ["zaun"]
+  },
+  {
+    "id": "gangplank",
+    "name": "Gangplank",
+    "cost": 3,
+    "regions": ["bilgewater"]
+  },
+  {
+    "id": "gwen",
+    "name": "Gwen",
+    "cost": 3,
+    "regions": ["shadow-isles"],
+    "unlockable": true
+  },
+  {
+    "id": "jinx",
+    "name": "Jinx",
+    "cost": 3,
+    "regions": ["zaun"]
+  },
+  {
+    "id": "kennen",
+    "name": "Kennen",
+    "cost": 3,
+    "regions": ["ionia", "yordle"],
+    "unlockable": true
+  },
+  {
+    "id": "kobuko-yuumi",
+    "name": "Kobuko & Yuumi",
+    "cost": 3,
+    "regions": ["yordle"],
+    "unlockable": true
+  },
+  {
+    "id": "leblanc",
+    "name": "LeBlanc",
+    "cost": 3,
+    "regions": ["noxus"],
+    "unlockable": true
+  },
+  {
+    "id": "leona",
+    "name": "Leona",
+    "cost": 3,
+    "regions": ["targon"]
+  },
+  {
+    "id": "loris",
+    "name": "Loris",
+    "cost": 3,
+    "regions": ["piltover"]
+  },
+  {
+    "id": "malzahar",
+    "name": "Malzahar",
+    "cost": 3,
+    "regions": ["void"]
+  },
+  {
+    "id": "milio",
+    "name": "Milio",
+    "cost": 3,
+    "regions": ["ixtal"]
+  },
+  {
+    "id": "nautilus",
+    "name": "Nautilus",
+    "cost": 3,
+    "regions": ["bilgewater"]
+  },
+  {
+    "id": "sejuani",
+    "name": "Sejuani",
+    "cost": 3,
+    "regions": ["freljord"]
+  },
+  {
+    "id": "vayne",
+    "name": "Vayne",
+    "cost": 3,
+    "regions": ["demacia"]
+  },
+  {
+    "id": "zoe",
+    "name": "Zoe",
+    "cost": 3,
+    "regions": ["targon"]
+  },
+  {
+    "id": "ambessa",
+    "name": "Ambessa",
+    "cost": 4,
+    "regions": ["noxus"]
+  },
+  {
+    "id": "belveth",
+    "name": "Bel'Veth",
+    "cost": 4,
+    "regions": ["void"]
+  },
+  {
+    "id": "braum",
+    "name": "Braum",
+    "cost": 4,
+    "regions": ["freljord"]
+  },
+  {
+    "id": "diana",
+    "name": "Diana",
+    "cost": 4,
+    "regions": ["targon"],
+    "unlockable": true
+  },
+  {
+    "id": "fizz",
+    "name": "Fizz",
+    "cost": 4,
+    "regions": ["bilgewater", "yordle"],
+    "unlockable": true
+  },
+  {
+    "id": "garen",
+    "name": "Garen",
+    "cost": 4,
+    "regions": ["demacia"]
+  },
+  {
+    "id": "kaisa",
+    "name": "Kai'Sa",
+    "cost": 4,
+    "regions": ["void"],
+    "unlockable": true
+  },
+  {
+    "id": "kalista",
+    "name": "Kalista",
+    "cost": 4,
+    "regions": ["shadow-isles"],
+    "unlockable": true
+  },
+  {
+    "id": "lissandra",
+    "name": "Lissandra",
+    "cost": 4,
+    "regions": ["freljord"]
+  },
+  {
+    "id": "lux",
+    "name": "Lux",
+    "cost": 4,
+    "regions": ["demacia"]
+  },
+  {
+    "id": "miss-fortune",
+    "name": "Miss Fortune",
+    "cost": 4,
+    "regions": ["bilgewater"]
+  },
+  {
+    "id": "nidalee",
+    "name": "Nidalee",
+    "cost": 4,
+    "regions": ["ixtal"],
+    "unlockable": true
+  },
+  {
+    "id": "rift-herald",
+    "name": "Rift Herald",
+    "cost": 4,
+    "regions": ["void"],
+    "unlockable": true
+  },
+  {
+    "id": "seraphine",
+    "name": "Seraphine",
+    "cost": 4,
+    "regions": ["piltover"]
+  },
+  {
+    "id": "singed",
+    "name": "Singed",
+    "cost": 4,
+    "regions": ["zaun"],
+    "unlockable": true
+  },
+  {
+    "id": "skarner",
+    "name": "Skarner",
+    "cost": 4,
+    "regions": ["ixtal"],
+    "unlockable": true
+  },
+  {
+    "id": "swain",
+    "name": "Swain",
+    "cost": 4,
+    "regions": ["noxus"]
+  },
+  {
+    "id": "taric",
+    "name": "Taric",
+    "cost": 4,
+    "regions": ["targon"]
+  },
+  {
+    "id": "veigar",
+    "name": "Veigar",
+    "cost": 4,
+    "regions": ["yordle"],
+    "unlockable": true
+  },
+  {
+    "id": "warwick",
+    "name": "Warwick",
+    "cost": 4,
+    "regions": ["zaun"],
+    "unlockable": true
+  },
+  {
+    "id": "wukong",
+    "name": "Wukong",
+    "cost": 4,
+    "regions": ["ionia"]
+  },
+  {
+    "id": "yone",
+    "name": "Yone",
+    "cost": 4,
+    "regions": ["ionia"],
+    "unlockable": true
+  },
+  {
+    "id": "yunara",
+    "name": "Yunara",
+    "cost": 4,
+    "regions": ["ionia"]
+  }
+]

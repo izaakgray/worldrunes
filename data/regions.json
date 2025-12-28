@@ -1,0 +1,75 @@
+[
+  {
+    "id": "bilgewater",
+    "name": "Bilgewater",
+    "color": "#14B8A6",
+    "requiredUnits": 3
+  },
+  {
+    "id": "demacia",
+    "name": "Demacia",
+    "color": "#FBBF24",
+    "requiredUnits": 3
+  },
+  {
+    "id": "freljord",
+    "name": "Freljord",
+    "color": "#3B82F6",
+    "requiredUnits": 3
+  },
+  {
+    "id": "targon",
+    "name": "Targon",
+    "color": "#A78BFA",
+    "requiredUnits": 1
+  },
+  {
+    "id": "yordle",
+    "name": "Yordle",
+    "color": "#EC4899",
+    "requiredUnits": 2
+  },
+  {
+    "id": "piltover",
+    "name": "Piltover",
+    "color": "#06B6D4",
+    "requiredUnits": 2
+  },
+  {
+    "id": "zaun",
+    "name": "Zaun",
+    "color": "#10B981",
+    "requiredUnits": 3
+  },
+  {
+    "id": "void",
+    "name": "Void",
+    "color": "#8B5CF6",
+    "requiredUnits": 2
+  },
+  {
+    "id": "ionia",
+    "name": "Ionia",
+    "color": "#8B5CF6",
+    "requiredUnits": 3
+  },
+  {
+    "id": "ixtal",
+    "name": "Ixtal",
+    "color": "#F59E0B",
+    "requiredUnits": 3
+  },
+  {
+    "id": "noxus",
+    "name": "Noxus",
+    "color": "#EF4444",
+    "requiredUnits": 3
+  },
+  {
+    "id": "shadow-isles",
+    "name": "Shadow Isles",
+    "color": "#6366F1",
+    "requiredUnits": 2
+  }
+]
+

@@ -1,0 +1,160 @@
+.container {
+  width: 100%;
+}
+
+.notice {
+  margin: 0 0 1rem 0;
+  padding: 0.75rem 1rem;
+  border-radius: 10px;
+  background: rgba(255, 200, 87, 0.12);
+  border: 1px solid rgba(255, 200, 87, 0.35);
+  color: #fff5d9;
+  font-weight: 600;
+}
+
+.noticeRow {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.unlockIcons {
+  display: flex;
+  gap: 0.4rem;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.noticeText {
+  color: #fff5d9;
+  font-weight: 600;
+  opacity: 0.85;
+}
+
+.tableWrapper {
+  overflow-x: auto;
+  background: rgba(10, 14, 32, 0.85);
+  border-radius: 12px;
+  border: 1px solid rgba(97, 196, 255, 0.15);
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
+}
+
+.table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.table thead {
+  background: rgba(18, 25, 48, 0.9);
+}
+
+.table th {
+  padding: 1rem;
+  text-align: left;
+  font-weight: 600;
+  color: #e9ecff;
+  font-size: 0.9rem;
+  border-bottom: 2px solid rgba(97, 196, 255, 0.18);
+}
+
+.table td {
+  padding: 1rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  color: rgba(233, 236, 255, 0.9);
+}
+
+.table tbody tr:hover {
+  background: rgba(255, 255, 255, 0.04);
+}
+
+.unitsCell {
+  min-width: 300px;
+}
+
+.unitsRow {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.regionCountCell {
+  text-align: center;
+  font-weight: 600;
+  width: 80px;
+}
+
+.regionsCell {
+  min-width: 200px;
+}
+
+.regionsList {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.regionBadge {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: 0.8rem;
+  padding: 0.35rem 0.5rem;
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.06);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  color: #e9ecff;
+}
+
+.traitIcon {
+  width: 20px;
+  height: 20px;
+  border-radius: 4px;
+  object-fit: cover;
+  background: rgba(255, 255, 255, 0.1);
+}
+
+.regionLabel {
+  white-space: nowrap;
+}
+
+.section {
+  margin-bottom: 2rem;
+}
+
+.sectionTitle {
+  font-size: 1.2rem;
+  font-weight: 700;
+  margin-bottom: 0.75rem;
+  color: rgba(255, 255, 255, 0.95);
+}
+
+.emblemCell {
+  min-width: 180px;
+}
+
+.empty {
+  text-align: center;
+  padding: 3rem;
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 12px;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.emptyIcon {
+  font-size: 3rem;
+  margin-bottom: 1rem;
+}
+
+.empty p {
+  color: rgba(255, 255, 255, 0.9);
+  font-size: 1.1rem;
+  margin-bottom: 0.5rem;
+}
+
+.emptyHint {
+  color: rgba(255, 255, 255, 0.6) !important;
+  font-size: 0.95rem !important;
+}
+
